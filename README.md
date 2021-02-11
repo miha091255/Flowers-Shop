@@ -1,7 +1,7 @@
 # Flowers-Shop
 ### One-page markup training
 
-## Techs:
+## Technologies:
 - HTML
 - CSS
 - Bootstrap
@@ -9,6 +9,8 @@
 - JQuery
 - Swiper Slider js
 - JS
+
+Web-page: https://miha091255.github.io/Flowers-Shop/
 
 # Glo Academy
 # By KMM
