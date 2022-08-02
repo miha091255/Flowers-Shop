@@ -1,0 +1,12 @@
+getbootstrap.com  Ч Ѕиблиотека Bootstrap
+fonts.google.com Ч —айт со шрифтами от Google 
+webref.ru/html Ч подробный справочник по HTML
+webref.ru/css Ч подробный справочник по CSS 
+html5book.ru Ч справочник и статьи на русском 
+htmlreference.io Ч справочник на английском
+developer.mozilla.org/ru Ч сайт веб-документации
+
+https://www.photopea.com/
+
+https://www.figma.com/file/vU9NqHar86mDlNbhDnpOqP/Untitled?node-id=0%3A1
+https://www.figma.com/file/NrqzZlXABT2NQiE6Tey5Ty/Untitled-(Copy)?node-id=202%3A284
