@@ -92,6 +92,9 @@ body {
   width: 100%;
   margin-bottom: 83px;
   margin-top: 87px;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
 }
 :root {
   --swiper-navigation-size: 18px;
