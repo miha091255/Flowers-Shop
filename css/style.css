@@ -129,6 +129,9 @@ body {
 }
 .reviews-slider {
   margin-top: 98px;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
 }
 .review-image {
   width: 220px;
